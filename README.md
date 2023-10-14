@@ -16,6 +16,7 @@ git branch ...check the branches,
 git branch branch name ------add the branch 
 git branch -m old branch   new branch       rename the branch.
 git push  -u origin main      ----->here -u is used means all the pushes one time.
+branching means one project and work diffferent developer and create one branch on make the changes and then the pull request to merge the code 
 
 
 
